@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/MobileLegend-HeroList/static/css/main.6df0fd24.chunk.css",
+    "main.js": "/MobileLegend-HeroList/static/js/main.54e731b8.chunk.js",
+    "main.js.map": "/MobileLegend-HeroList/static/js/main.54e731b8.chunk.js.map",
+    "runtime-main.js": "/MobileLegend-HeroList/static/js/runtime-main.bddde202.js",
+    "runtime-main.js.map": "/MobileLegend-HeroList/static/js/runtime-main.bddde202.js.map",
+    "static/js/2.30ea3663.chunk.js": "/MobileLegend-HeroList/static/js/2.30ea3663.chunk.js",
+    "static/js/2.30ea3663.chunk.js.map": "/MobileLegend-HeroList/static/js/2.30ea3663.chunk.js.map",
+    "static/js/3.991123af.chunk.js": "/MobileLegend-HeroList/static/js/3.991123af.chunk.js",
+    "static/js/3.991123af.chunk.js.map": "/MobileLegend-HeroList/static/js/3.991123af.chunk.js.map",
+    "index.html": "/MobileLegend-HeroList/index.html",
+    "static/css/main.6df0fd24.chunk.css.map": "/MobileLegend-HeroList/static/css/main.6df0fd24.chunk.css.map",
+    "static/js/2.30ea3663.chunk.js.LICENSE.txt": "/MobileLegend-HeroList/static/js/2.30ea3663.chunk.js.LICENSE.txt",
+    "static/media/MLBBLogo.eb320b4e.svg": "/MobileLegend-HeroList/static/media/MLBBLogo.eb320b4e.svg",
+    "static/media/loading.e2577566.svg": "/MobileLegend-HeroList/static/media/loading.e2577566.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bddde202.js",
+    "static/js/2.30ea3663.chunk.js",
+    "static/css/main.6df0fd24.chunk.css",
+    "static/js/main.54e731b8.chunk.js"
+  ]
+}
