@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/MobileLegend-HeroList/static/css/main.6df0fd24.chunk.css",
-    "main.js": "/MobileLegend-HeroList/static/js/main.7eb41c71.chunk.js",
-    "main.js.map": "/MobileLegend-HeroList/static/js/main.7eb41c71.chunk.js.map",
+    "main.js": "/MobileLegend-HeroList/static/js/main.4f801106.chunk.js",
+    "main.js.map": "/MobileLegend-HeroList/static/js/main.4f801106.chunk.js.map",
     "runtime-main.js": "/MobileLegend-HeroList/static/js/runtime-main.bddde202.js",
     "runtime-main.js.map": "/MobileLegend-HeroList/static/js/runtime-main.bddde202.js.map",
     "static/js/2.30ea3663.chunk.js": "/MobileLegend-HeroList/static/js/2.30ea3663.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.bddde202.js",
     "static/js/2.30ea3663.chunk.js",
     "static/css/main.6df0fd24.chunk.css",
-    "static/js/main.7eb41c71.chunk.js"
+    "static/js/main.4f801106.chunk.js"
   ]
 }
